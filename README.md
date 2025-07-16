@@ -5,6 +5,7 @@ A custom tool for using LLMs, semantic vector search, and advanced RAG pipelines
 1. Enable information extraction from messy data (usually text), including but not limited to clinical notes.
 2. Provide research tool for clinical researchers (and other users) who need to query text corpora for information via RAG and semantic vector search.
 3. Enable a dropbox-style implementation that auto-processes and generates automated insights, using agentic AI.
+4. Support "local mode" as well as a "cloud mode", depending on user security and data privacy concerns/requirements.
 
 ### Tools, Libraries, and Frameworks:
 - LangChain
