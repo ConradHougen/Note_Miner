@@ -7,13 +7,13 @@ A custom tool for using LLMs, semantic vector search, and advanced RAG pipelines
 3. Enable a dropbox-style implementation that auto-processes and generates automated insights, using agentic AI.
 
 ### Tools, Libraries, and Frameworks:
--LangChain
--LangGraph
--LlamaIndex
--FAISS
--PyTorch
--OpenSearch
--Streamlit
--MLFlow
--Docker
--GitHub CI
+- LangChain
+- LangGraph
+- LlamaIndex
+- FAISS
+- PyTorch
+- OpenSearch
+- Streamlit
+- MLFlow
+- Docker
+- GitHub CI
